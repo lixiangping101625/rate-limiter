@@ -1,0 +1,10 @@
+
+#server.servlet.application-display-name=rate-limiter
+server.port=16888
+#
+#spring:
+#  cloud:
+#    sentinel:
+#      transport:
+#        port: 8719
+#        dashboard: localhost:8080
